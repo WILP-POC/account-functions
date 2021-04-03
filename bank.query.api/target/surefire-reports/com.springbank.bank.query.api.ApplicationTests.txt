@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.springbank.bank.query.api.ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 22.881 s - in com.springbank.bank.query.api.ApplicationTests
