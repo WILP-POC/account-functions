@@ -1,9 +1,0 @@
-C:\git\bank-account\bank.cmd.api\src\main\java\com\springbank\bank\cmd\api\CommandsApplication.java
-C:\git\bank-account\bank.cmd.api\src\main\java\com\springbank\bank\cmd\api\dto\OpenAccountRequest.java
-C:\git\bank-account\bank.cmd.api\src\main\java\com\springbank\bank\cmd\api\controllers\OpenAccountController.java
-C:\git\bank-account\bank.cmd.api\src\main\java\com\springbank\bank\cmd\api\aggregates\AccountAggregate.java
-C:\git\bank-account\bank.cmd.api\src\main\java\com\springbank\bank\cmd\api\commands\WithdrawAmountCommand.java
-C:\git\bank-account\bank.cmd.api\src\main\java\com\springbank\bank\cmd\api\commands\CloseAccountCommand.java
-C:\git\bank-account\bank.cmd.api\src\main\java\com\springbank\bank\cmd\api\commands\DepositFundsCommand.java
-C:\git\bank-account\bank.cmd.api\src\main\java\com\springbank\bank\cmd\api\commands\OpenAccountCommand.java
-C:\git\bank-account\bank.cmd.api\src\main\java\com\springbank\bank\cmd\api\dto\OpenAccountResponse.java

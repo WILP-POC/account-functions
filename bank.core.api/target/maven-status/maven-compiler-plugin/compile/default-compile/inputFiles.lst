@@ -1,8 +1,0 @@
-C:\git\bank-account\bank.core.api\src\main\java\com\springbank\bank\core\api\events\AccountClosedEvent.java
-C:\git\bank-account\bank.core.api\src\main\java\com\springbank\bank\core\api\events\AccountOpenedEvent.java
-C:\git\bank-account\bank.core.api\src\main\java\com\springbank\bank\core\api\dto\BaseResponse.java
-C:\git\bank-account\bank.core.api\src\main\java\com\springbank\bank\core\api\events\FundsWithdrawalEvent.java
-C:\git\bank-account\bank.core.api\src\main\java\com\springbank\bank\core\api\events\FundsDepositedEvent.java
-C:\git\bank-account\bank.core.api\src\main\java\com\springbank\bank\core\api\models\BankAccount.java
-C:\git\bank-account\bank.core.api\src\main\java\com\springbank\bank\core\api\configuration\AxonConfig.java
-C:\git\bank-account\bank.core.api\src\main\java\com\springbank\bank\core\api\models\AccountType.java

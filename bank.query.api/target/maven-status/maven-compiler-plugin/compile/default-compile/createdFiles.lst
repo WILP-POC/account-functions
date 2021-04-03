@@ -1,4 +1,0 @@
-com\springbank\bank\query\api\QueryApplication.class
-com\springbank\bank\query\api\handlers\AccountEventHandler.class
-com\springbank\bank\query\api\repositories\AccountRepository.class
-com\springbank\bank\query\api\handlers\AccountEventHandlerImpl.class
